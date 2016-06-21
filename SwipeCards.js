@@ -247,4 +247,4 @@ var styles = StyleSheet.create({
   }
 });
 
-export default SwipeCards
+module.exports = SwipeCards;
